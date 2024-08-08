@@ -1,4 +1,4 @@
-# Machine_Learning_Algorithms
+# Machine_Learning_Algorithms(Overall_Overview OF ALL Methods)
 Linear Regression, Logistic Regression, KNN, Decision Tree and Random Forest, SVM, K Means Clustering, PCA
 
 # 1. Linear Regression:
