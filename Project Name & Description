@@ -1,0 +1,4 @@
+Dimensionality Reduction using PCADimensionality Reduction using PCA
+
+Used Scikit Learn builtin load_breast_cancer dataset.
+After some data pre-processing, we reduce the dimensionality of the dataset to 2 principal components.
